@@ -164,3 +164,44 @@ echo "sudo swapon /dev/mapper/vg_temp-lv_swap" >> Punto_A.sh
 vim Punto_A.sh 
 cd
 ls -la
+git add .
+git commit -m "FEAT: Resolución del Punto A"
+git status 
+git push origin main  
+exit
+cd /usr/local/bin/
+vim Claros_AltaUser-Groups.sh
+cd
+cat UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt
+cd /usr/local/bin/
+sudo vim Claros_AltaUser-Groups.sh
+sudo chmod 744 Claros_AltaUser-Groups.sh 
+ll
+cd
+sudo /usr/local/bin/Claros_AltaUser-Groups.sh /home/claros/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt claros
+cd /usr/local/bin/
+sudo vim Claros_AltaUser-Groups.sh
+cd
+sudo /usr/local/bin/Claros_AltaUser-Groups.sh /home/claros/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt claros
+cat UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt
+cd /usr/local/bin/
+sudo vim Claros_AltaUser-Groups.sh
+cd
+sudo /usr/local/bin/Claros_AltaUser-Groups.sh /home/claros/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt claros
+cat /etc/shadow
+sudo cat /etc/shadow
+cat /etc/group
+cd
+ll
+cd RTA_Examen_20241112/
+ll
+echo "cd /usr/local/bin/" >> Punto_B.sh
+clear
+echo "sudo vim Claros_AltaUser-Groups.sh" >> Punto_B.sh
+vim Punto_B.sh 
+echo "sudo chmod 744 Claros_AltaUser-Groups.sh" >> Punto_B.sh
+echo "sudo /usr/local/bin/Claros_AltaUser-Groups.sh /home/claros/UTN-FRA_SO_Examenes/202406/bash_script/Lista_Usuarios.txt claros" >> Punto_B.sh
+cat Punto_B.sh 
+vim Punto_B.sh 
+cd
+ll
