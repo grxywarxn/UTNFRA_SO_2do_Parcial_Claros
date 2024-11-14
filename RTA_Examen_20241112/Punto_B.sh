@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /usr/local/bin/
 
 sudo vim Claros_AltaUser-Groups.sh
