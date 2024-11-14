@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1731545301,,"wq"
+|2,0,1731593884,,"wq"
 :q
 |2,0,1731545092,,"q"
 :q!
@@ -29,38 +29,160 @@
 # Registers:
 
 # File marks:
-'0  30  3  ~/RTA_Examen_20241112/Punto_B.sh
-|4,48,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
-'1  4  0  ~/RTA_Examen_20241112/Punto_B.sh
-|4,49,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
-'2  4  0  ~/RTA_Examen_20241112/Punto_B.sh
-|4,50,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
-'3  28  11  ~/RTA_Examen_20241112/Punto_B.sh
-|4,51,28,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
-'4  27  11  ~/RTA_Examen_20241112/Punto_B.sh
-|4,52,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
-'5  27  11  ~/RTA_Examen_20241112/Punto_B.sh
-|4,53,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
-'6  26  11  ~/RTA_Examen_20241112/Punto_B.sh
-|4,54,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
-'7  11  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,55,11,0,1731540687,"/usr/local/bin/Claros_AltaUser-Groups.sh"
-'8  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,56,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
-'9  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,57,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
+'0  29  46  ~/RTA_Examen_20241112/Punto_C.sh
+|4,48,29,46,1731593884,"~/RTA_Examen_20241112/Punto_C.sh"
+'1  4  14  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,49,4,14,1731549632,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'2  5  18  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,50,5,18,1731549250,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'3  5  18  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,51,5,18,1731549250,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+'4  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,52,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+'5  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,53,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+'6  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,54,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+'7  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,55,28,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+'8  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,56,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+'9  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,57,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
 
 # Jumplist (newest first):
+-'  29  46  ~/RTA_Examen_20241112/Punto_C.sh
+|4,39,29,46,1731593884,"~/RTA_Examen_20241112/Punto_C.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_C.sh
+|4,39,1,0,1731593790,"~/RTA_Examen_20241112/Punto_C.sh"
+-'  4  14  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,4,14,1731549632,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  4  14  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,4,14,1731549632,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  18  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,18,1731549571,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  18  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,18,1731549571,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  18  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,18,1731549250,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  5  18  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,5,18,1731549250,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731549183,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731549183,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731549183,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  1  0  ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+|4,39,1,0,1731549183,"~/UTN-FRA_SO_Examenes/202406/docker/index.html"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  30  3  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,30,3,1731545301,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545221,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  4  0  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,4,0,1731545131,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  28  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,28,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544971,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,26,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  27  11  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,27,11,1731544964,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  26  11  ~/RTA_Examen_20241112/Punto_B.sh
@@ -71,6 +193,48 @@
 |4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
 |4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
+-'  1  0  ~/RTA_Examen_20241112/Punto_B.sh
+|4,39,1,0,1731544894,"~/RTA_Examen_20241112/Punto_B.sh"
 -'  11  0  /usr/local/bin/Claros_AltaUser-Groups.sh
 |4,39,11,0,1731540687,"/usr/local/bin/Claros_AltaUser-Groups.sh"
 -'  11  0  /usr/local/bin/Claros_AltaUser-Groups.sh
@@ -87,172 +251,44 @@
 |4,39,11,0,1731540687,"/usr/local/bin/Claros_AltaUser-Groups.sh"
 -'  11  0  /usr/local/bin/Claros_AltaUser-Groups.sh
 |4,39,11,0,1731540687,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  1  0  /usr/local/bin/Claros_AltaUser-Groups.sh
-|4,39,1,0,1731540476,"/usr/local/bin/Claros_AltaUser-Groups.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  52  1  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,52,1,1731467248,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731467183,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  3  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,3,0,1731465327,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
--'  1  0  ~/RTA_Examen_20241112/Punto_A.sh
-|4,39,1,0,1731465257,"~/RTA_Examen_20241112/Punto_A.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/RTA_Examen_20241112/Punto_C.sh
+	*	1731593873	0
+	"	29	46
+	^	29	47
+	.	30	0
+	+	7	32
+	+	9	0
+	+	2	0
+	+	1	10
+	+	7	0
+	+	4	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	11	0
+	+	13	0
+	+	15	0
+	+	20	0
+	+	22	0
+	+	24	0
+	+	26	0
+	+	28	10
+	+	30	0
+
+> ~/UTN-FRA_SO_Examenes/202406/docker/index.html
+	*	1731549623	0
+	"	4	14
+	^	4	15
+	.	4	14
+	+	1	5
+	+	2	0
+	+	4	15
+	+	5	18
+	+	5	0
+	+	4	14
 
 > ~/RTA_Examen_20241112/Punto_B.sh
 	*	1731545299	0

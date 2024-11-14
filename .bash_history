@@ -205,3 +205,71 @@ cat Punto_B.sh
 vim Punto_B.sh 
 cd
 ll
+git add .
+git commit -m "FEAT: Resolución del Punto B"
+git push origin main
+cd
+cd UTN-FRA_SO_Examenes/202406/docker/
+ll
+vim index.html 
+sudo usermod -a -G docker claros
+cat /etc/group
+cd UTN-FRA_SO_Examenes/202406/docker/
+docker login -u luisclaros
+sudo su - claros
+cd
+cd UTN-FRA_SO_Examenes/202406/docker/
+ls -la
+cat << EOF > dockerfile
+FROM nginx:latest
+
+COPY index.html /usr/share/nginx/html/index.html
+EOF
+
+ll
+cat dockerfile 
+docker build -t web1-claros .
+docker tag web1-claros luisclaros/web1-claros 
+docker push luisclaros/web1-claros
+cat << EOF > run.sh
+#!/bin/bash
+docker run -d -p 8080:80 luisclaros/web1-claros
+EOF
+
+cat run.sh 
+chmod +x run.sh 
+./run.sh 
+cd /
+ll
+ls -la
+cd
+ll
+cat .bash_history 
+clear
+cd RTA_Examen_20241112/
+ll
+echo "cd UTN-FRA_SO_Examenes/202406/docker/" >> Punto_C.sh 
+echo "vim index.html" >> Punto_C.sh 
+echo "#modifiqué el apellido y la división en el archivo dentro del vim" >> Punto_C.sh 
+echo "sudo usermod -a -G docker claros" >> Punto_C.sh 
+echo "docker login -u luisclaros" >> Punto_C.sh 
+echo "#loguee con el token de docker hub" >> Punto_C.sh 
+echo "sudo su - claros" >> Punto_C.sh 
+echo "cat << EOF > dockerfile" >> Punto_C.sh 
+echo "FROM nginx:latest" >> Punto_C.sh 
+echo "COPY index.html /usr/share/nginx/html/index.html" >> Punto_C.sh 
+echo "EOF" >> Punto_C.sh 
+echo "docker build -t web1-claros ." >> Punto_C.sh 
+echo "docker tag web1-claros luisclaros/web1-claros" >> Punto_C.sh 
+echo "docker push luisclaros/web1-claros" >> Punto_C.sh 
+echo "cat << EOF > run.sh" >> Punto_C.sh 
+echo "docker run -d -p 8080:80 luisclaros/web1-claros" >> Punto_C.sh 
+vim Punto_C.sh 
+echo "EOF" >> Punto_C.sh 
+cd
+cat .bash_history 
+clear
+cd RTA_Examen_20241112/
+ll
+echo "chmod +x run.sh" >> Punto_C.sh 
+cd
