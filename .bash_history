@@ -273,3 +273,117 @@ cd RTA_Examen_20241112/
 ll
 echo "chmod +x run.sh" >> Punto_C.sh 
 cd
+git add .
+git commit -m "FEAT: Resolución del Punto C"
+git push -u origin main
+cd UTN-FRA_SO_Examenes/202406/ansible/
+ll
+cd
+sudo apt install wget gpg
+UBUNTU_CODENAME=jammy
+wget -O- "https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=get&search=0x6125E2A8C77F2818FB7BD15B93C4A3FD7BB9C367" | sudo gpg --dearmour -o /usr/share/keyrings/ansible-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/ansible-archive-keyring.gpg] http://ppa.launchpad.net/ansible/ansible/ubuntu $UBUNTU_CODENAME main" | sudo tee /etc/apt/sources.list.d/ansible.list
+sudo apt update && sudo apt install ansible
+ansible --version
+clear
+cd UTN-FRA_SO_Examenes/202406/ansible/
+ll
+cd roles/
+ll
+cd 2do_parcial/
+ll
+cd tasks/
+ll
+vim main.yml 
+cd ..
+ll
+cd 2do_parcial/
+ll
+cd 
+cd UTN-FRA_SO_Examenes/202406/ansible/
+ll
+cd roles/2do_parcial/
+ll
+mkdir templates
+cd templates/
+cat << EOF > template_01.j2
+Nombre: Luis Apellido: Claros
+Division: 114
+EOF
+
+cd ..
+cd tasks/
+ll
+vim main.yml 
+cd ..
+cd templates/
+cat << EOF > template_02.j2
+IP: {{ ansible_default_ipv4.address }}
+Distribución: {{ ansible_facts.distribution }}
+Cantidad de Cores: {{ ansible_facts.ansible_processor_cores }}
+EOF
+
+cat template_01.j2 
+cat template_02.j2 
+cd ..
+cd tasks/
+vim main.yml 
+cd
+cat .bash_history 
+cd UTN-FRA_SO_Examenes/202406/ansible/
+ll
+cd roles/2do_parcial/tasks/
+vim main.yml 
+cd ..
+cd..
+cd ..
+ansible-playbook -i inventory/hosts playbook.yml
+vim roles/2do_parcial/tasks/main.yml
+ansible-playbook -i inventory/hosts playbook.yml
+vim roles/2do_parcial/tasks/main.yml
+ansible-playbook -i inventory/hosts playbook.yml
+vim roles/2do_parcial/tasks/main.yml
+vim roles/2do_parcial/templates/template_02.txt
+cd roles/2do_parcial/templates/
+ll
+vim template_02.j2 
+cd
+cd UTN-FRA_SO_Examenes/202406/ansible/
+ansible-playbook -i inventory/hosts playbook.yml
+ansible-playbook -K -i inventory/hosts playbook.yml
+vim roles/2do_parcial/tasks/main.yml
+ll
+cd roles/
+ll
+2do_parcial/
+cd 2do_parcial/
+ll
+cd
+cd RTA_Examen_20241112/
+ll
+echo "cd UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/tasks/" >> Punto_D.sh 
+echo "vim main.yml" >> Punto_D.sh 
+vim Punto_D.sh 
+echo "cd" >> Punto_D.sh 
+echo "cd UTN-FRA_SO_Examenes/202406/ansible/roles/2do_parcial/" >> Punto_D.sh 
+echo "mkdir templates" >> Punto_D.sh 
+echo "cd templates/" >> Punto_D.sh 
+echo "" >> Punto_D.sh 
+echo "cat << EOF > template_01.j2" >> Punto_D.sh 
+echo "Nombre: Luis Apellido: Claros" >> Punto_D.sh 
+echo "Division: 114" >> Punto_D.sh 
+echo "EOF" >> Punto_D.sh 
+echo "" >> Punto_D.sh 
+echo "cat << EOF > template_02.j2" >> Punto_D.sh 
+echo "IP: {{ ansible_default_ipv4.address }}" >> Punto_D.sh 
+echo "Distribución: {{ ansible_facts.distribution }}" >> Punto_D.sh 
+echo "Cantidad de Cores: {{ ansible_facts.ansible_processor_cores }}" >> Punto_D.sh 
+echo "EOF" >> Punto_D.sh 
+echo "" >> Punto_D.sh 
+echo "cd" >> Punto_D.sh 
+echo "cd UTN-FRA_SO_Examenes/202406/ansible/" >> Punto_D.sh 
+echo "ansible-playbook -K -i inventory/hosts playbook.yml" >> Punto_D.sh 
+vim Punto_D.sh 
+cd
+ll
+history -a
